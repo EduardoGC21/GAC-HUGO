@@ -1,2 +1,0 @@
-# GAC-HUGO
-GAC Tasks
